@@ -44,7 +44,7 @@ h1 {
 }
 
 td {
-  border: 7px solid #333;
+  border: 7px solid greenyellow;
   height: 60px;
   width: 60px;
   visibility: hidden;
